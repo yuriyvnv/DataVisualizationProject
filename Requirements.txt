@@ -1,0 +1,13 @@
+gunicorn
+dash
+from dash import html
+dash_bootstrap_components
+numpy 
+dash.dependencies 
+pandas
+plotly.graph_objs
+datetime
+timedelta
+plotly.express
+plotly.figure_factory
+pickle
